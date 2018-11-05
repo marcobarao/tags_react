@@ -2,13 +2,13 @@ import React from "react";
 
 import Globals from "./styles";
 
-import FormCollab from "./components/FormCollab";
+import MainForm from "./components/MainForm";
 
 import Container from "./objects/Container";
 const App = () => (
   <Container>
     <Globals />
-    <FormCollab />
+    <MainForm />
   </Container>
 );
 

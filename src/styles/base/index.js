@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 const Base = createGlobalStyle`
   body {
-    font-family: "Comfortaa", cursive;
+    font-family: "Ubuntu", cursive;
     font-size: 30px;
     background-color: var(--color-third);
     color: var(--color-second);
